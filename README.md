@@ -1,4 +1,5 @@
-# GT Project 2
+# GT Project II - Space Launch Analysis
+
 
 This project showcases an interactive website that displays global space launch data from 1957-August 2020 that was obtained from Kaggle (https://www.kaggle.com/davidroberts13/one-small-step-for-data). We used a Python Flask-powered API with HTML/CSS, JavaScript, and SQL to complete this project.
 
